@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cross-coder
-- 👀 I’m interested in making awesome Christian Games
+- 👀 I’m interested in making awesome games
 - 🌱 I’m currently learning how to make an awesome fast-paced 2D platformer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
